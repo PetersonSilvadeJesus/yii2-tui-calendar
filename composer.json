@@ -1,0 +1,21 @@
+{
+    "name": "petersonsilvadejesus/yii2-tui-calendar",
+    "description": "Extension Tui Calendar...",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Péterson Silva",
+            "email": "petersondejesus99@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "petersonsilvadejesus\\tuicalendar\\": ""
+        }
+    }
+}
